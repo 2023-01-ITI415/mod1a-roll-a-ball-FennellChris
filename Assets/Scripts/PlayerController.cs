@@ -22,7 +22,7 @@ void FixedUpdate ()
 }
 void OnTriggerEnter(Collider other)
 {
-    if (other.GameObject.CompareTag("Pick Up"))
+    if (other.GameObject.CompareTag("Pick UP"))
     {
         other.gameObject.SetActive (false);
         }

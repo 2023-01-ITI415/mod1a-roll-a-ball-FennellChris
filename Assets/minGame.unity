@@ -138,7 +138,7 @@ GameObject:
   - component: {fileID: 175689331}
   m_Layer: 0
   m_Name: Pick Up (10)
-  m_TagString: Untagged
+  m_TagString: Pick UP
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -247,7 +247,7 @@ GameObject:
   - component: {fileID: 267933755}
   m_Layer: 0
   m_Name: Pick Up
-  m_TagString: Untagged
+  m_TagString: Pick UP
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -356,7 +356,7 @@ GameObject:
   - component: {fileID: 403542262}
   m_Layer: 0
   m_Name: Pick Up (15)
-  m_TagString: Untagged
+  m_TagString: Pick UP
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -561,7 +561,7 @@ GameObject:
   - component: {fileID: 635033637}
   m_Layer: 0
   m_Name: Pick Up (4)
-  m_TagString: Untagged
+  m_TagString: Pick UP
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -670,7 +670,7 @@ GameObject:
   - component: {fileID: 693288265}
   m_Layer: 0
   m_Name: Pick Up (7)
-  m_TagString: Untagged
+  m_TagString: Pick UP
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -779,7 +779,7 @@ GameObject:
   - component: {fileID: 711346180}
   m_Layer: 0
   m_Name: Pick Up (8)
-  m_TagString: Untagged
+  m_TagString: Pick UP
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -884,7 +884,7 @@ GameObject:
   - component: {fileID: 942296799}
   m_Layer: 0
   m_Name: Pick Ups
-  m_TagString: Untagged
+  m_TagString: Pick UP
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -935,7 +935,7 @@ GameObject:
   - component: {fileID: 945604727}
   m_Layer: 0
   m_Name: Pick Up (3)
-  m_TagString: Untagged
+  m_TagString: Pick UP
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1140,7 +1140,7 @@ GameObject:
   - component: {fileID: 1028165377}
   m_Layer: 0
   m_Name: Pick Up (13)
-  m_TagString: Untagged
+  m_TagString: Pick UP
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1249,7 +1249,7 @@ GameObject:
   - component: {fileID: 1092753792}
   m_Layer: 0
   m_Name: Pick Up (9)
-  m_TagString: Untagged
+  m_TagString: Pick UP
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1500,7 +1500,7 @@ MonoBehaviour:
   m_DefaultControlScheme: Keyboard&Mouse
   m_DefaultActionMap: Player
   m_SplitScreenIndex: -1
-  m_Camera: {fileID: 0}
+  m_Camera: {fileID: 1378531765}
 --- !u!1 &1133644875
 GameObject:
   m_ObjectHideFlags: 0
@@ -1802,7 +1802,7 @@ GameObject:
   - component: {fileID: 1312407380}
   m_Layer: 0
   m_Name: Pick Up (5)
-  m_TagString: Untagged
+  m_TagString: Pick UP
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2104,7 +2104,7 @@ GameObject:
   - component: {fileID: 1537497512}
   m_Layer: 0
   m_Name: Pick Up (1)
-  m_TagString: Untagged
+  m_TagString: Pick UP
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2213,7 +2213,7 @@ GameObject:
   - component: {fileID: 1597522426}
   m_Layer: 0
   m_Name: Pick Up (2)
-  m_TagString: Untagged
+  m_TagString: Pick UP
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2322,7 +2322,7 @@ GameObject:
   - component: {fileID: 1609343423}
   m_Layer: 0
   m_Name: Pick Up (6)
-  m_TagString: Untagged
+  m_TagString: Pick UP
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2431,7 +2431,7 @@ GameObject:
   - component: {fileID: 1614977204}
   m_Layer: 0
   m_Name: Pick Up (14)
-  m_TagString: Untagged
+  m_TagString: Pick UP
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2540,7 +2540,7 @@ GameObject:
   - component: {fileID: 1653148382}
   m_Layer: 0
   m_Name: Pick Up (11)
-  m_TagString: Untagged
+  m_TagString: Pick UP
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2649,7 +2649,7 @@ GameObject:
   - component: {fileID: 1667847963}
   m_Layer: 0
   m_Name: Pick Up (12)
-  m_TagString: Untagged
+  m_TagString: Pick UP
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2792,7 +2792,7 @@ GameObject:
   - component: {fileID: 2003197997}
   m_Layer: 0
   m_Name: Pick Up (16)
-  m_TagString: Untagged
+  m_TagString: Pick UP
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

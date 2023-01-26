@@ -7,6 +7,7 @@ public class PlayerController : MonoBehaviour
 {
 public float speed;
 public Text countText;
+public Text winText;
 
 private Rigidbody rb; 
 private int count;
@@ -16,6 +17,7 @@ void Start ()
     rb = GetComponent<Rigidbody>();
     count = 0; 
     SetCountText ();
+    winText.text = "";
 }
 void FixedUpdate ()
 {
@@ -38,6 +40,10 @@ void OnTriggerEnter(Collider other)
     void SetCountText ()
     {
         countText.text = "Count: " + count.ToString ();
+        if (count >= 17)
+        {
+            winText.text = "You did it!"
+        }
 
     }
 }

@@ -42,7 +42,7 @@ void OnTriggerEnter(Collider other)
         countText.text = "Count: " + count.ToString ();
         if (count >= 17)
         {
-            winText.text = "You did it!"
+            winText.text = "You did it!";
         }
 
     }

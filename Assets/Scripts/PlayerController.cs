@@ -20,4 +20,12 @@ void FixedUpdate ()
 
     rb.AddForce (movement * speed);
 }
+void OnTriggerEnter(Collider other)
+{
+    if (other.GameObject.CompareTag("Pick Up"))
+    {
+        other.gameObject.SetActive (false);
+        }
+    }
 }
+
